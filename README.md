@@ -83,8 +83,8 @@ Quantum Native Dojoの内容を理解するには、以下のような知識が�
 - 第5章 基于变分量子回路的量子算法
   - 5-1. Variational QuantumEigensolver（VQE）变分量子特征求解器
   - 5-2. Quantum Circuitlearning
-  - コラム：基于Quantum CircuitLearning的分类
-  - コラム：量子储层计算
+  - 专栏：基于Quantum CircuitLearning的分类
+  - 专栏：量子储层计算
   - 5-3. Quantum Approximate Optimazation Algorithm (QAOA):量子近似优化算法
 - 第6章 量子化学计算
   - 6-1. OpenFermion的使用方法
@@ -97,7 +97,7 @@ Quantum Native Dojoの内容を理解するには、以下のような知識が�
   - 7-2. Harrow-Hassidim-Lloyd (HHL)算法
   - 专栏：量子随机存取储存器(qRAM)
   - 7-3. 基于HHL算法的投资组合优化
-  - コラム：低秩行列式对应的高速奇异值分解和取样（量子启发算法）
+  - 专栏：低秩行列式对应的高速奇异值分解和取样（量子启发算法）
 - 第8章 量子探索算法
   - 8-1. Oracle
   - 8-2. 全局的算法
